@@ -4,7 +4,7 @@ import Home from './components/pages/Home'
 import Service from './components/pages/Service'
 import Prices from './components/pages/Prices'
 import Booking from './components/pages/Booking'
-import PreviewBooking from './components/Booking/PreviewBooking'
+import PreviewBooking from './components/Booking/PreViewBooking'
 import BookingSuccess from './components/Booking/BookingSuccess'
 import OrderDetails from './components/orders/OrderDetails'
 //Staff Related
